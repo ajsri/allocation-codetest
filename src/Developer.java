@@ -1,5 +1,5 @@
 public class Developer extends Employee {
     public Developer() {
-        super(1000, false);
+        super(1000);
     }
 }

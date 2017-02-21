@@ -3,7 +3,7 @@ import java.util.ArrayList;
 public class Manager extends Employee {
     private ArrayList<Employee> employees;
     public Manager() {
-        super(300, true);
+        super(300);
         this.employees = new ArrayList<>();
     }
     

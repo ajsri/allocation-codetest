@@ -1,5 +1,5 @@
 public class QATester extends Employee {
     public QATester() {
-        super(500, false);
+        super(500);
     }
 }
