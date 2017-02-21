@@ -11,7 +11,7 @@
 - People will report to only a single direct manager.
 - Departments consist of any kinds of employees.
 - Users of this library should be able to:
-- - Determine the monthly expense allocation warranted a manager who has various employee types reporting to him/her. The level of depth of the hierarchy should be flexible ideally.
-- - Determine the monthly expense allocation warranted a department with various employee types under it at multiple levels deep just as the Manager can.
+-     Determine the monthly expense allocation warranted a manager who has various employee types reporting to him/her. The level of depth of the hierarchy should be flexible ideally.
+-     Determine the monthly expense allocation warranted a department with various employee types under it at multiple levels deep just as the Manager can.
 
 Bonus points for unit tests
